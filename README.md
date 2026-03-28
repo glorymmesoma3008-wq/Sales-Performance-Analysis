@@ -19,7 +19,7 @@ The sales performance analysis helps the business to know how they are working t
 7. Which product(s) is performing better in each region and how ways to leverage on it
 
 ## Key Skills:
-The following skills were incorporated in this analysis in power bi
+The following skills were used in this analysis on power bi
 
 - Data cleaning
 - Data Wrangling
