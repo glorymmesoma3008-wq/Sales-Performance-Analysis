@@ -35,11 +35,13 @@ The following skills were incorporated in this analysis in power bi
 ![](saleschannelanalysis.png)
 
 
+![](productanalysis2.png)
+
+
 ![](customeranalysis.png)
 
-![](Customer Analysis.png)
 
-![](pg5week4.png)
+![](regionalanalysis2.png)
 
 ## Conclusions and Recommendation:
 
