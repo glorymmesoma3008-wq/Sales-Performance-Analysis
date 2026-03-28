@@ -28,13 +28,13 @@ The following skills were incorporated in this analysis in power bi
 - Dashboard Automation
 
 ## Visualization and Analysis:
-![](pg1week4.png)
+![](Monthly Sales Trend Analysis.png)
 
-![](pg2week4.png)
+![](Product Category Analysis.png)
 
-![](pg3week4.png)
+![](Sales Channel Distribution.png)
 
-![](pg4week4.png)
+![](Customer Analysis.png)
 
 ![](pg5week4.png)
 
