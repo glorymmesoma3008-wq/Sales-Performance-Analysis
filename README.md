@@ -18,6 +18,10 @@ The sales performance analysis helps the business to know how they are working t
 6. what is the total sales by regions?
 7. Which product(s) is performing better in each region and how ways to leverage on it
 
+### Sales by Year-Month: This tracks the monthly performance of an organization overtime.
+### Year Over Year: This compares the sales of a specific month to the sales of the same month in the previous years.
+
+
 ## Key Skills:
 The following skills were used in this analysis on power bi
 
@@ -43,6 +47,7 @@ The following skills were used in this analysis on power bi
 
 ![](regionalanalysis2.png)
 
-## Conclusions and Recommendation:
+## Conclusions and Recommendation
 
-
+### Sales Trend Analysis: Based on the analysis, there has been a consistent decline in sales overtime and in the course of the years.
+Filtering for Bikes 
