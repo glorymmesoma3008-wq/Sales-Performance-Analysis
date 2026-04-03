@@ -71,3 +71,12 @@ Filtering by “S” with 100% orders from the offline sales channel, the bike c
 So, it’s a fact that the offline sales channel is for wholesalers( bulk purchases) while the online sales channel is for end users( less quantity).
 
 Recommendations: The company can leverage the sales made from the bike category in Australia to promote the complementary product like accessories( helmets, etc) like buy 2 bikes and get a free helmet thus pushing the accessory product category into the market, improve inventory in bikes, etc. They should also maintain the recommendations for the online sales channel.
+
+### Customer Based Analysis:
+Analyzed customer distribution based on region, the total sales by region, and the salesperson’s cumulative sales. Having established the fact that “I “ is for end user and online sales and “S” for wholesalers and offline sales, there will be no salesperson for the “I” customer type.
+Overall, the United States has the highest customer distribution and contributed the highest to the total sales with Germany and Australia being the least respectively.
+The salesperson's cumulative sales started with an upward slope (growth) and then showed little to no improvement in sales. This could be a result of the inability to close deals resulting from poor product knowledge.
+
+Recommendations: The company should conduct training, monitor performance weekly or monthly and give feedback, introduce sales competition and rewards, and give objection-handling options. For the online sales, look into the product options available to Canada as they have the lowest sales but have a high customer base. Improve the online platforms, add coupons, improve the User Interface, and enhance user experience.
+
+
