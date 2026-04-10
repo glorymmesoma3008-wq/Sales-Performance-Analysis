@@ -96,3 +96,5 @@ The sales from the US can also be improved e.g offering free delivery to
 customers who post a video of themselves using the company’s products on
 their social media with at least 1000 views, etc
 
+### Connect with me on linkedin: 
+[Linkedin](https://www.linkedin.com/in/mmesoma-g-onyekaozulu-73293b18a/?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base%3BMw5uuJ%2BhReiRNZSZ6Y33zw%3D%3D)
