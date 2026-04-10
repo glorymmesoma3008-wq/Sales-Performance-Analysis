@@ -65,7 +65,7 @@ In 2004, we see that there was a significant increase in sales orders from the o
 Recommendations: The company should maintain its offline customers while improving its online sales by improving inventory and customer service, and having a physical store in areas where the bulk of its customers are located. For the online platforms, use quality photos with clear and detailed product descriptions, add customer testimonials with real images, improve the user interface, enhance the user experience, and offer more payment options, amongst others.
 
 ### Product Category Analysis:
-Analyzing the 4 product categories offered by the company, their sales channel distribution, the total orders made based on product category, each category's contribution to total sales, the product sales by region, and the top 5 products of the company.Overall, the top 5 products were all from the bike category and accounted for the highest contribution to total sales (revenue) with 20.46% offline and 12.53% of online sales, and were mostly bought in Australia.
+Analyzed the 4 product categories offered by the company, their sales channel distribution, the total orders made based on product category, each category's contribution to total sales, the product sales by region, and the top 5 products of the company.Overall, the top 5 products were all from the bike category and accounted for the highest contribution to total sales (revenue) with 20.46% offline and 12.53% of online sales, and were mostly bought in Australia.
 Filtering by customer type where “I” stands for individual customers/ end users and “S” for store owners/wholesale dealers. We see that 100% of orders were made by individual customers through the online platforms with the accessory category topping the chart in orders mostly from Germany but the bike category brought in more sales(Australia) and 65.45million dollars in total sales were generated.
 Filtering by “S” with 100% orders from the offline sales channel, the bike category brought in the highest orders as well as the highest sales mostly from the Australia region.
 So, it’s a fact that the offline sales channel is for wholesalers( bulk purchases) while the online sales channel is for end users( less quantity).
@@ -73,10 +73,26 @@ So, it’s a fact that the offline sales channel is for wholesalers( bulk purcha
 Recommendations: The company can leverage the sales made from the bike category in Australia to promote the complementary product like accessories( helmets, etc) like buy 2 bikes and get a free helmet thus pushing the accessory product category into the market, improve inventory in bikes, etc. They should also maintain the recommendations for the online sales channel.
 
 ### Customer Based Analysis:
-Analyzed customer distribution based on region, the total sales by region, and the salesperson’s cumulative sales. Having established the fact that “I “ is for end user and online sales and “S” for wholesalers and offline sales, there will be no salesperson for the “I” customer type.
+Having established the fact that “I “ is for end user and online sales and “S” for wholesalers and offline sales, there will be no salesperson for the “I” customer type because it is an online sales platform was used.Analyzed customer distribution based on region, the total sales by region, and the salesperson’s cumulative sales.
 Overall, the United States has the highest customer distribution and contributed the highest to the total sales with Germany and Australia being the least respectively.
 The salesperson's cumulative sales started with an upward slope (growth) and then showed little to no improvement in sales. This could be a result of the inability to close deals resulting from poor product knowledge.
 
 Recommendations: The company should conduct training, monitor performance weekly or monthly and give feedback, introduce sales competition and rewards, and give objection-handling options. For the online sales, look into the product options available to Canada as they have the lowest sales but have a high customer base. Improve the online platforms, add coupons, improve the User Interface, and enhance user experience.
 
+### The Regional Sales Analysis:
+The United States (US), especially the Southwest US, followed by Canada,
+topped the sales chart. Some factors like the variety of payment options,
+customized ads, availability of high-demand products specific to the US, a
+better user interface(UI), and user experience(UX), a good salesperson and
+customer relationship, amongst others could have contributed to this.
+
+Recommendations: The company should try to balance the sales performance
+of other branches like Australia, which is bringing in the least sales. Are the
+products in stock in Australia not environmentally friendly or is it not in need
+by the Australian market, e.g., is the company stocking up on clothing while
+neglecting the components category which is in demand, how is the UI and
+UX available in Australia, what are the payment options?, etc.
+The sales from the US can also be improved e.g offering free delivery to
+customers who post a video of themselves using the company’s products on
+their social media with at least 1000 views, etc
 
